@@ -1,7 +1,7 @@
 ---
-title: READY TO CREATE THE NEXT BIG THING? HIRE A A SOFTWARE DEVELOPER
+title: READY TO CREATE THE NEXT BIG THING? HIRE A  SOFTWARE DEVELOPER
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: /img/aboutus.png
 blurb:
   heading: Why Kaldi?
   text: >-
