@@ -1,7 +1,7 @@
 ---
 title: READY TO CREATE THE NEXT BIG THING? HIRE A  SOFTWARE DEVELOPER
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/aboutus.png
+subtitle: ..building faster and better app
+image: /img/pic2.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
