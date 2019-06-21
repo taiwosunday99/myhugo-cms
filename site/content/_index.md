@@ -24,16 +24,15 @@ products:
       availability.
   - image: /img/apps.jpg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      We offer great and sophisticated apps and tutors. Different technologies
+      are being brought to the market every day. It is very important you stay
+      on top of it by patronising our services.
 values:
   heading: Our values
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Our values are inexplicable due to what we stand for and provide to the
+    world. We let our products speak for us and our customers do the appraisals.
+    We stand for everything about quality which makes us stand tall above the
+    rest.
 ---
 
