@@ -17,11 +17,8 @@ intro:
 products:
   - image: /img/aboutus.png
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+      We make you see that blogging is gone beyond just displaying plain text
+      for viewers to surfing for the most wanted item on the planet.
   - image: /img/apps.jpg
     text: >-
       We offer great and sophisticated apps and tutors. Different technologies
